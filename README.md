@@ -1,10 +1,10 @@
 # Greetings, traveler.
 
-- 👋 I’m @gorbodoh, the kindhearted but blur blur gorgor
-- 👀 I’m interested in ?
-- 🌱 I’m currently learning vb.NET
+- 👋 I’m @gorbodoh, who mostly codes in vb.NET.
+- 👀 I’m interested in stories with depth!
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on n/a
-- 📫 How to reach me? *breathe in -* ***DON'T***
+- 📫 How to reach me? Currently, I provide no way to be reached as I am just starting out.
 
 <!---
 gorbodoh/gorbodoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
