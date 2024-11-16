@@ -1,8 +1,8 @@
 # Greetings, traveler.
 
-- 👋 I’m @gorbodoh, who mostly codes in vb.NET and Oracle SQL.
-- 👀 I’m interested in stories with depth!
-- 🌱 I’m currently learning Java and Angular.
+- 👋 I’m @gorbodoh, who mostly codes in DOTNET and Oracle SQL.
+- 👀 I’m interested in creating stories with depth!
+- 🌱 I’m currently learning DOTNET and Godot.
 - 💞️ I’m looking to collaborate on n/a.
 - 📫 How to reach me? Currently, I provide no way to be reached as I am just starting out.
 
